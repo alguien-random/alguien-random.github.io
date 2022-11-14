@@ -1,54 +1,29 @@
+﻿
 <html>
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Official website</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Official website</title>
+	<link rel="stylesheet" href="style.css">
 </head>
-<style>
-  .page a {
-  font-size: 1.5rem;
-  text-decoration: none;
-  animation-duration: 2s;
-  color: white;
-  font-size: 16px;
-  transition-duration: 0.8s;
-  background-color: rgb(30, 30, 30);
-  padding: 14px 20px;
-  border: none;
-  cursor: pointer;
-  width: 10%;
-  outline: none;
-}
-.page a:link {
-  color: white;
-}
 
-.page a:visited {
-  color: white;
-}
-
-.page a:hover {
-  color: white;
-}
-
-.page a:active {
-  color: white;
-}
-</style>
-
-  <body style="background-color:black; font-family:verdana; color:white">
-  <h1 style="text-align:center; ">Alguien Random official website!</h1>
-  <p style="text-align:center">Last update: 1/2/2022, Reflex test changis his URL, Update logs are now avaliable.</h2>
-  <h3 style="text-align:center"></h3>
-  <div class="page">
-<a href="https://algnrandom.sytes.net/other/memes.html" title="Memes"> Memes</a> - <a href="https://algnrandom.sytes.net/en/social-media.html" title="Social Media"> Social media</a> - <a href="https://algnrandom.sytes.net/games/reflex/game.html" title="Reflex test (F1 Style)"> Reflex test</a> - 
-  <a href="https://algnrandom.sytes.net/es/index.html" title="Spanish Version"> Spanish Version </a> - 
-  <a href="https://algnrandom.sytes.net/other/doritos.html" title="A secret is here"> A secret... </a> - 
-  <a href="https://algnrandom.sytes.net/games/list.html" title="Games"> Games list </a>
-  <a href="https://algnrandom.sytes.net/update-logs.html" title="Update Logs> Update Logs </a><br>
+<body style="background-color:black; font-family:verdana; color:white">
+	<h1 style="text-align:center; ">Alguien Random official website!</h1>
+	<h4 style="text-align:center">Last update: 22/10/2022, text changes
+	<h3 style="text-align:center"></h3>
+	<div class="page">
+		<a href="https://alguien-random.github.io/web-v2/memes.html" title="Memes">Memes</a> - <a href="https://alguien-random.github.io/web-v2/en/social-media.html"
+		 title="Social Media">Social media</a> - <a href="https://alguien-random.github.io/web-v2/games/reflex/game.html" title="Reflex test (F1 Style)">Reflex test</a> - 
+		<a href="https://alguien-random.github.io/web-v2/es/index.html" title="Spanish Version">Spanish Version</a> -
+		<a href="https://alguien-random.github.io/web-v2/other/doritos.html" title="A secret is here">A secret...</a> -
+		<a href="https://alguien-random.github.io/web-v2/games/list.html" title="Games">Games list</a> -
+		<a href="https://alguien-random.github.io/web-v2/update-logs.html" title="Update Logs">Update Logs</a> - 
+    <a href="https://discord.gg/U7GhpBJt73" title="RandomMC Discord">RandomMC Discord</a><br>
   <br>
-  <p>Osu!mania player, #5474 Spanish rank and #400.000 in global rank </p>
+  <p>Valorant & Minecraft player. Newbie MC Servers Dev </p>
   <p>RIP HyperMC, always on my heart</p>
-  <p>If you wanna talk with me do it by my social media</p>
-
+  <p>Actually developing RandomMC</p>
+  <p>^^  Already opened  🥳
+  <p> Love y'all</p>
 </html>

@@ -1,1 +1,50 @@
-<META http-equiv="REFRESH" content="0;URL=https://algnrandom.sytes.net/under-mantainance.html">
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>Under Mantainance</title>
+      </head>
+      <style>
+        .page a {
+        font-size: 1.5rem;
+        text-decoration: none;
+        animation-duration: 2s;
+        color: white;
+        font-size: 16px;
+        transition-duration: 0.8s;
+        background-color: rgb(30, 30, 30);
+        padding: 14px 20px;
+        border: none;
+        cursor: pointer;
+        width: 10%;
+        outline: none;
+      }
+      .page a:link {
+        color: white;
+      }
+      
+      .page a:visited {
+        color: white;
+      }
+      
+      .page a:hover {
+        color: white;
+      }
+      
+      .page a:active {
+        color: white;
+      }
+      </style>
+  <body style="background-color:purple; font-family:verdana; color:white">
+    <h1 style="text-align:center; background-color: red;">UNDER MANTAINANCE</h1>
+    <div class="page">
+  <h2 style="text-align: center">Scheduled finish time: 20/11/22 (May changes wthout further prior)</h2>
+  <p>FNaF fans will know the color :)</p>
+  <p>might add new games</p><p>Adding MC Server stuff</p> <br>
+    You opened this at
+<script>
+miFecha = new Date()
+document.write (miFecha.getHours() + ":" + miFecha.getMinutes() + ":" + miFecha.getSeconds())
+</script>
+</html>
