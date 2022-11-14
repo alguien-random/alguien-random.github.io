@@ -1,0 +1,71 @@
+	.page a {
+		font-size: 1.5rem;
+		text-decoration: none;
+		animation-duration: 2s;
+		color: white;
+		font-size: 16px;
+		transition-duration: 0.8s;
+		background-color: rgb(30, 30, 30);
+		padding: 14px 20px;
+		border: none;
+		cursor: pointer;
+		width: 10%;
+		outline: none;
+		justify-content: center;
+	}
+
+	.page a:link {
+		color: white;
+	}
+
+	.page a:visited {
+		color: white;
+	}
+
+	.page a:hover {
+		color: white;
+	}
+
+	.page a:active {
+		color: white;
+	}
+.resolucion {
+    width: 99%;
+    text-align: center;
+}
+
+
+/**Movil**/
+
+@media (max-width: 767px) {
+    .desktop {
+        display: none;
+    }
+    .tablet {
+        display: none;
+    }
+}
+
+
+/**Tablet**/
+
+@media (min-width: 768px) and (max-width: 990px) {
+    .desktop {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
+
+
+/**Escritorio**/
+
+@media (min-width: 991px) {
+    .tablet {
+        display: none;
+    }
+    .movil {
+        display: none;
+    }
+}
