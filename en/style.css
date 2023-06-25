@@ -59,10 +59,22 @@ color: #f1f1f1;
 }
 
 .main {
-margin-left: 160px; /* Same as the width of the sidenav */
+margin-left: 15px; /* Same as the width of the sidenav */
 font-size: 16px; /* Increased text to enable scrolling */
 padding: 0px 10px;
 }
+
+.topbar{
+	background: rgb(0, 0, 0);
+	margin: auto;
+	border-radius: 20px;
+	text-align:center;
+	font-size:16px;
+	font-weight: bold;
+	padding: 10px 0px;
+	white-space: 5px;
+	width: 30%;}
+.topbar a {color: rgb(255, 255, 255); border-bottom: 1px; }
 
 @media screen and (max-height: 450px), (max-width: 1300px) {
 .sidenav {padding-top: 15px;}
